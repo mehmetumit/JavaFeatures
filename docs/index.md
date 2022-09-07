@@ -1,5 +1,6 @@
-# Index
+# Java Yenilikler
 Java 8'den 17'ye kadar gelen yenilikler
+
 - [8](8)
 - [9](9)
 - [10](10)
