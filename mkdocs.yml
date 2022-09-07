@@ -1,0 +1,18 @@
+site_name: Java Features
+theme: windmill
+
+docs_dir: ./docs
+nav:
+  - Java8: 8
+  - Java9: 9
+  - Java10: 10
+  - Java11: 11
+  - Java12: 12
+  - Java13: 13
+  - Java14: 14
+  - Java15: 15
+  - Java16: 16
+  - Java17: 17
+site_dir: ./build
+site_url: https://mehmetumit.github.io/JavaFeatures/
+repo_url: https://github.com/mehmetumit/JavaFeatures
